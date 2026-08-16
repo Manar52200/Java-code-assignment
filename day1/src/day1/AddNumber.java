@@ -1,3 +1,5 @@
+package day1;
+
 import java.util.Scanner;
 //Write a program that allow user to add to numbers and keep repeating as he wants
 public class AddNumber {

@@ -1,3 +1,5 @@
+package day1;
+
 import java.util.Scanner;
 //Write a program that allow a cashier to scan a given number of items and get the cost
 public class CostOfItems {

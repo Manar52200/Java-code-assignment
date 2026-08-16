@@ -1,3 +1,5 @@
+package day1;
+
 import java.util.Scanner;
 //Write a program to calculate the average score for 3 students in 4 tests
 public class Average {

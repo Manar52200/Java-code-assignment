@@ -1,3 +1,5 @@
+package day1;
+
 import java.util.Scanner;
 
 //Write a program that calculates the gross week salary of employees

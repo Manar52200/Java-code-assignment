@@ -1,4 +1,4 @@
-//Explain break by writing a program to check for letter A
+package day1;//Explain break by writing a program to check for letter A
 
 import java.util.Scanner;
 
